@@ -19,5 +19,26 @@
   <a href="https://github.com/helmadev/ajax-flasher">
         <img src="https://img.shields.io/badge/requipments-php%207.1%20or%20higher-ff69b4">
     </a>
+  <a href="https://github.com/helmadev/ajax-flasher">
+        <img src="https://img.shields.io/badge/License-MIT-orange">
+    </a>
 </p>
+
+# Why use AJAX Flasher?
+
+> * Beauty and responsiveness
+> * Flexible and powerful
+> * Simple and fast
+> * Open source and highly extensible
+> * Ability to use in any type of project with PHP language
+> * Easy and fast installation with Composer
+> * Compatible with Bootstrap 4 and 5
+
+
+
+
+
+
+
+<p align="center"> <b>Made with ❤️ by <a href="https://helmadev.com/">Reza Karimi (HelMaDeV)</a> <b> </p>
 
