@@ -2,6 +2,7 @@
   "name": "helmadev/ajax-flasher",
   "type": "library",
   "description": "An Ajax-based flasher, usable in Laravel, LiveWire and raw php projects",
+  "version": "1.0.0",
   "keywords": ["ajax-flasher","php-flasher","bootstrap-flasher","laravel-flasher","flasher","flasher-alert"],
   "homepage": "https://github.com/helmadev",
   "license": "MIT",
@@ -12,5 +13,15 @@
       "homepage": "https://helmadev.com",
       "role": "Developer"
     }
-  ]
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "liveajax\\" : "ajax-flasher/"
+    }
+  },
+  "require": {
+    "php": "^7.1 || ^8.0",
+    "ext-json": "*"
+  }
 }
