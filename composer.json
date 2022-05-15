@@ -17,7 +17,7 @@
   "minimum-stability": "stable",
   "autoload": {
     "psr-4": {
-      "liveajax\\" : "ajax-flasher/"
+      "liveajax\\" : "src/"
     }
   },
   "require": {
